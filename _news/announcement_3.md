@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-8-30
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper titled "NBSync: Parallelism of Local Computing and Global Synchronization for Fast Distributed Machine Learning in WANs" is accepted by **IEEE TSC (CCF A)**! :tada:
