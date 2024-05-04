@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-2-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Congratulations! Our developed geo-distributed machine learning system GeoMX is accepted and adopted by ZTE Co., Ltd.! :tada::tada::tada:
