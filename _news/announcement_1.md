@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! Our geo-distributed machine learning system GeoMX is accepted and adopted by ZTE Co., Ltd.! :tada::tada::tada:
+Congratulations! Our geo-distributed machine learning system GeoMX is adopted and deployed at ZTE Co., Ltd.! :tada::tada::tada:
