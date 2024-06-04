@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-# cv_pdf: example_pdf.pdf
+cv_pdf: CV_of_LiZH.pdf
 description: The cutoff date for this data is May 3, 2024.
 toc:
   sidebar: left
