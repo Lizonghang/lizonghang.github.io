@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV_of_LiZH.pdf
-description: The cutoff date for this data is May 3, 2024.
+description: The cutoff date for this data is Jun 4, 2024.
 toc:
   sidebar: left
 ---
