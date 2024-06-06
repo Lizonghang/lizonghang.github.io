@@ -34,6 +34,14 @@
       "highlights": [
         "My student Shenglai Zeng was selected as an outstanding student of UESTC and is pursuing his Ph.D. degree in Michigan State University."
       ]
+    },
+    {
+      "name": "MBZUAI",
+      "position": "Postdoc Researcher",
+      "location": "Abu Dhabi, UAE",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "Present"
     }
   ],
   "education": [
@@ -61,13 +69,6 @@
       "studyType": "Visiting Scholar",
       "startDate": "2021",
       "endDate": "2022"
-    },{
-      "institution": "MBZUAI",
-      "location": "Abu Dhabi",
-      "url": "",
-      "studyType": "Postdoc Researcher",
-      "startDate": "2024",
-      "endDate": "Present"
     }
   ],
   "awards": [
