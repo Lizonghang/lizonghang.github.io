@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: The cutoff date for this data is May 3, 2024.
+description: The cutoff date for this data is Dec 14, 2024.
 nav: false
 nav_order: 3
 display_categories: [Research]
