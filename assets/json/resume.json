@@ -135,40 +135,6 @@
       "awarder": "University of Electronic Science and Technology of China"
     }
   ],
-  "skills": [
-    {
-      "name": "Coding",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MXNET",
-        "PyTorch",
-        "Llama-Factory",
-        "Ollama",
-        "Megatron-LM",
-        "DeepSpeed",
-        "Accelerate",
-        "Transformers",
-        "Stable Diffusion",
-        "Gradio",
-        "Kohya-ss"
-      ]
-    },{
-      "name": "Research Interests",
-      "level": "Master",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Distributed AI Systems",
-        "Efficient LM Training, Fine-Tuning, and Inference",
-        "Advanced Networks for Distributed AI",
-        "Federated Learning",
-        "LM Agent",
-        "Reinforcement Learning",
-        "Generative AI Applications",
-        "Future AI Technologies"
-      ]
-    }
-  ],
   "talks": [
     {
       "title": "Roundtable: Large Model Applications in Industry - Dilemma and Open Source Solutions",
