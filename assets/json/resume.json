@@ -207,12 +207,12 @@
       "name": "Other Programs",
       "summary": "These programs are close sourced due to IP and confidentiality protocols.",
       "startDate": "2018",
-      "endDate": "Now",
+      "endDate": "2025",
       "highlights": [
         "2018-2020: Advanced Distributed Machine Learning Techniques. Provincial and Ministerial Key Program. Approved.",
         "2018-2019: Advanced Data Center Network Architectures. Huawei Technologies Co., Ltd. Approved.", 
         "2019-2020: Communication Optimizations for Distributed Machine Learning over WANs. Peng Cheng Laboratory. Approved.",
-        "2021-Now: Computing Power Network and New Communication Primitives. ZTE Communication Co., Ltd. In progress.",
+        "2021-2025: Computing Power Network and New Communication Primitives. ZTE Communication Co., Ltd. In progress.",
         "2022-2023: Accelerating Data Transmission for Geographically Distributed Machine Learning. Zhejiang Lab. Approved.",
         "2022-2023: Advanced Network Technologies for Giant Connections, Large Traffic, and Low Latency in the Rapid Evolution of 5G/B5G. National Key Research and Development Program. Approved."
       ]
