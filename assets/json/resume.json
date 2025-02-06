@@ -73,6 +73,10 @@
   ],
   "awards": [
     {
+      "title": "Best Paper Award",
+      "date": "2024",
+      "awarder": "IEEE Transactions on Cloud Computing"
+    },{
       "title": "UESTC Excellent PhD Graduates Award",
       "date": "2024",
       "awarder": "University of Electronic Science and Technology of China"
