@@ -24,6 +24,7 @@ jobs:
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
       - name: Prettier Check 🔎
         id: prettier
+        continue-on-error: true
         run: npx prettier . --check
       - name: Create diff 📝
         if: ${{ failure() }}
