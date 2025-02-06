@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: The cutoff date for this data is Dec 14, 2024.
+description: The cutoff date for this data is 6 Feb, 2025.
 nav: true
 nav_order: 2
 ---
