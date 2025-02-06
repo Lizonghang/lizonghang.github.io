@@ -150,22 +150,34 @@
   ],
   "projects": [
     {
+      "name": "Prima.cpp - A distributed inference system serving 70B-scale LLMs on mobile devices with piped ring parallelism and automatic layer assignment",
+      "summary": "Prima.cpp is a distributed inference system built on llama.cpp. Unlike existing on-device inference systems that assume sufficient memory, user devices often lack the total memory required to run 70B-scale models. While llama.cpp uses mmap to avoid OOMs, this approach incurs significant disk I/O latency. To address this, prima.cpp designs a piped ring parallel architecture that runs model layers in a circle and overlaps disk loading with operations on other devices. However, assigning model layers to heterogeneous devices is challenging due to heterogeneity in computing hardware, memory, disk, and OS, making inference latency hard to predict. Prima.cpp implements a layer-to-device scheduler that models these factors and optimizes overall inference latency while considering memory constraints and disk loading delays. In a setup using 4 user devices (laptop, tablet, smartphone, and desktop, with a combined 30GB of memory), prima.cpp achieves an inference latency of 1 second per token for Llama-3 70B. Further optimizations are underway.",
+      "startDate": "2024",
+      "endDate": "Now",
+      "url": "https://github.com/Lizonghang/prima.cpp"
+    },{
+      "name": "TPI-LLM - A distributed inference system serving 70B-scale LLMs on mobile devices with tensor parallelism and sliding window memory scheduling",
+      "summary": "TPI-LLM is a LLM serving system designed to bring LLM functions to low-resource mobile devices. While cloud LLM services have achieved great success, privacy concerns arise and users do not want their conversations uploaded to the cloud as these conversations could involve sensitive personal information. Our TPI-LLM system addresses the privacy issue by enabling LLM inference on mobile devices with limited computing and memory resources. The system leverages multiple mobile devices to perform inference through tensor parallelism, combined with a sliding window memory scheduler to reduce peak memory footprint. Currently, TPI-LLM can run Yi-34B in full precision on 4 laptops with 5GB of memory on each laptop, and run Llama 2-70B on 8 devices with 3GB of memory on each device. Furthermore, TPI-LLM has demonstrated 80%-90% less TTFT and token latency compared to Transformers, Accelerate, Galaxy, and 43%-55% less compared to llama.cpp on larger models (>13B)."
+      "startDate": "2024",
+      "endDate": "2024",
+      "url": "https://github.com/Lizonghang/TPI-LLM"
+    },{
       "name": "GeoMX - Accepted and adopted by ZTE Co., Ltd.",
       "summary": "GeoMX is a fast and unified distributed system for training ML models over geographical data centers, which offers 20x speedup under identical network conditions.",
       "startDate": "2018",
-      "endDate": "Now",
+      "endDate": "2023",
       "url": "https://github.com/INET-RC/GeoMX"
     },{
-      "name": "NetStorm - To appear on IEEE/ACM TON (CCF A)",
+      "name": "NetStorm - Accepted by IEEE/ACM TON (CCF A)",
       "summary": "NetStorm is an topology-adaptive and communication-efficient system designed for geo-distributed machine learning training, which achieves a speedup of 7.5~9.2 times over the standard GeoMX system.",
       "startDate": "2022",
-      "endDate": "Now",
+      "endDate": "2024",
       "url": "https://github.com/Lizonghang/netstorm"
     },{
       "name": "KlonetAI - An intelligent agent adopted by a work accepted by NSDI 24 (CCF A)",
       "summary": "Klonet is designed to support the deployment and testing of new network protocols and applications in a realistic environment, such as distributed machine learning and federated learning, and KlonetAI provides an AI agent for intelligent interaction with the Klonet platform.",
       "startDate": "2023",
-      "endDate": "Now",
+      "endDate": "2024",
       "url": "https://github.com/Lizonghang/KlonetAI"
     },{
       "name": "AGOD - AI-generated optimization decision accepted by IEEE TMC (CCF A)",
