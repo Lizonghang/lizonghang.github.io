@@ -7,9 +7,7 @@ github_repos:
   - Lizonghang/netstorm
   - Lizonghang/ESync
   - Lizonghang/AGOD
-  - Lizonghang/sfc-dqn
-  - Lizonghang/fedgs
-  - slz-ai/leaf-torch
+  - Lizonghang/prima.cpp
   - Lizonghang/leaf-mx
-  - Lizonghang/FaceNetServer
   - Lizonghang/TPI-LLM
+  - Lizonghang/fedgs
