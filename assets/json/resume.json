@@ -146,6 +146,11 @@
       "awarder": "National University AI Education Summit",
       "date": "2023",
       "summary": "Invited Lecturer"
+    },{
+      "title": "Prima.cpp: Speeding Up 70B LLM Inference on Low-Resource Everyday Home Clusters",
+      "awarder": "The University of Birmingham Dubai",
+      "date": "2025",
+      "summary": "Keynote Speaker & Roundtable Guest"
     }
   ],
   "projects": [
