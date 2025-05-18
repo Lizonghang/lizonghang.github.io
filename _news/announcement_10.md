@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-3-26
+date: 2025-5-18
 inline: true
 related_posts: false
 ---
 
-I am invited to give a talk on edge AI at the University of Birmingham Dubai. Wonderful roundtable discussion with professors! :tada:
+Our paper "TopoDT: Digital Twin-Assisted UAV Topology Optimization for Targets Tracking" was awarded the 2025 **Best Paper Award** from IWCMC 2025 :tada::tada::tada:
